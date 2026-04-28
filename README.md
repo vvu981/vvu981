@@ -1,9 +1,10 @@
 <div align="center">
 
 # Víctor Vallejo Uroz
-### Arquitecturo resiliencia. Sistematizo la calidad. Optimizo el ciclo de vida del software.
+### Diseño resiliencia. Sistematizo la calidad. Optimizo el ciclo de vida del software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Strategic_Contact-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/víctor-vallejo-uroz)
+[![Web](https://img.shields.io/badge/Web-victor--vallejo.me-111111?style=flat-square&logo=vercel)](https://victor-vallejo.me)
 
 </div>
 
@@ -22,18 +23,19 @@ Aplicar los principios **SOLID** y patrones de diseño estructurales no es una p
 | Dominio | Herramientas y Estándares |
 | :--- | :--- |
 | **Fundamentos y Calidad** | ![ISO 25010](https://img.shields.io/badge/ISO/IEC_25010-Quality_Model-111111?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID-Principles-111111?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Systems-111111?style=flat-square) |
-| **Motor de Ejecución** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Persistencia y Datos** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Motor de Ejecución** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Persistencia y Datos** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/Pipelines-CI/CD-111111?style=flat-square) |
 
 ---
 
-## Quality Metrics & Analytics
+## Activity & Architecture Analytics
 
 <div align="center">
 
-[![Víctor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvu981&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/vvu981)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvu981&layout=compact&theme=dracula&hide_border=true)](https://github.com/vvu981)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvu981&theme=dracula&hide_border=true)](https://github.com/vvu981)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvu981&layout=compact&theme=dracula&hide_border=true&hide=html,css)](https://github.com/vvu981)
 
 </div>
 
@@ -43,4 +45,4 @@ Aplicar los principios **SOLID** y patrones de diseño estructurales no es una p
 
 Para discusiones sobre arquitectura de sistemas, estrategias de escalabilidad o la integración de normativas de calidad técnica en ciclos de desarrollo continuo.
 
-> **[Iniciar contacto en LinkedIn](https://linkedin.com/in/víctor-vallejo-uroz)**
+> **[Conóceme mejor en mi Web Personal](https://victor-vallejo.me)** | **[Iniciar contacto en LinkedIn](https://linkedin.com/in/víctor-vallejo-uroz)**
