@@ -32,8 +32,8 @@ Aplicar los principios **SOLID** y patrones de diseño estructurales no es una p
 
 <div align="center">
 
-[![Víctor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victor-Vallejo-Uroz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Victor-Vallejo-Uroz)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Vallejo-Uroz&layout=compact&theme=dracula&hide_border=true)](https://github.com/Victor-Vallejo-Uroz)
+[![Víctor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvu981&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/vvu981)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvu981&layout=compact&theme=dracula&hide_border=true)](https://github.com/vvu981)
 
 </div>
 
