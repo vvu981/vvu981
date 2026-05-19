@@ -37,8 +37,6 @@ I work across the full stack with **TypeScript, React, Node.js, and Java**, and 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvu981&theme=github-dark&hide_border=true&area=true)](https://github.com/vvu981)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvu981&layout=compact&theme=github_dark&hide_border=true&include_forks=true)](https://github.com/vvu981)
-
 </div>
 
 ---
